@@ -1,4 +1,4 @@
-# Tictatoe
+
 Tic-Tac-Toe: Human vs AI – A Strategic Showdown
 Tic-Tac-Toe: Human vs AI is a modern and visually appealing implementation of the timeless paper-and-pencil game. Built with Python and the Pygame library, this game pits a human player against an intelligent computer opponent in a battle of wits on a 3x3 grid. Whether you’re a beginner learning game development or a casual player wanting a fun challenge, this project delivers both learning and entertainment value.
 
